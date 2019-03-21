@@ -10,5 +10,5 @@ modules/ dependencies pre-requisites:
 6. OpenCv
 7. Pillow
 8. H5py
-9. ImageAi(pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl)
+9. ImageAi(https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl)
 10. Wxpython
