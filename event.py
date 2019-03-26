@@ -8,7 +8,7 @@ execution_path = os.getcwd()
 prediction = CustomImagePrediction()
 prediction.setModelTypeAsResNet()
 prediction.setModelPath("idenprof_061-0.7933.h5")
-prediction.setJsonPath("idenprof_model_class.json")
+prediction.setJsonPath("model_class.json")
 prediction.loadModel(num_objects=10)
 
 def predictor(file):
